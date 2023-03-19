@@ -6,7 +6,7 @@
 
 <br>
 <ul align="left">
-<li>🌱 i'm a hobbyist that uses javascript to make mods for an mmorpg called tera</li>
-<li>🔭 i've also been learning <b>discord.js</b> to make a discord bot</li>
-<li>⛳ my hobbies are <b>coding 💻</b>, <b>gaming 🎮</b>, <b>music 🎵</b>, and <b>writing ✍️</b>
+<li>🌱 hobbyist that uses javascript to make mods for an mmorpg called tera</li>
+<li>🔭 learning <b>discord.js</b> to make a discord bot</li>
+<li>⛳ hobbies are <b>coding 💻</b>, <b>gaming 🎮</b>, <b>music 🎵</b> and <b>writing ✍️</b>
 </ul>
