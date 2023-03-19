@@ -8,5 +8,5 @@
 <ul align="left">
 <li>🌱 hobbyist mostly familiar with <b>javascript</b></li>
 <li>🔭 learning <b>discord.js</b> to make a discord bot</li>
-<li>⛳ hobbies are <b>coding 💻</b>, <b>gaming 🎮</b> and <b>writing ✍️</b>
+<li>⛳ hobbies: <b>💻 coding</b>, <b>🎮 gaming</b> and <b>✍️ writing</b>
 </ul>
